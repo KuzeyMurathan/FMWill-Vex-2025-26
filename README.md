@@ -4,7 +4,7 @@ Robot code for the VEX V5 Robotics Competition Push Back 2025-2026 season for FM
 
 ## Overview
 
-This repository contains the C++ source code for our competition robot competing in the VEX V5 Robotics Push Back challenge during the 2025-2026 season.
+This repository contains the Python source code for our competition robot competing in the VEX V5 Robotics Push Back challenge during the 2025-2026 season.
 
 ## Project Structure
 
