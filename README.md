@@ -1,4 +1,6 @@
+<img width="1080" height="354" alt="Untitled design (1) (1)" src="https://github.com/user-attachments/assets/7d5bfc74-93f0-4228-a5ee-01bb0931a633" />
 # FMWill VEX V5 Robotics 2025-2026
+
 
 Robot code for the VEX V5 Robotics Competition Push Back 2025-2026 season for FMWill.
 
